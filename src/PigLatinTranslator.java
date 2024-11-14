@@ -4,7 +4,7 @@ public class PigLatinTranslator
 {
   public static Book translate(Book input)
   {
-    Book translatedBook = new Book();
+    //Book translatedBook = new Book();
 
     // Add code here to populate translatedBook with a translation of the input book.
     // Curent do-nothing code will return an empty book.
